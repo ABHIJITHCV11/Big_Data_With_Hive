@@ -22,7 +22,7 @@
 
 ![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/now_what.gif)
 
-### You make a server room in your office.
+### Now you dedicate a room to store data, set up a network, and hire some people to handle data.
 
 ![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/server.gif)
 
