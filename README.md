@@ -19,9 +19,9 @@ you decide to store the sales info in your computer instead of writing it down.
 ![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/computer.gif)
 
 Next month you decide to launch 5 more branches and stated selling other products.
-Now you dont have space in your computer any more.
+Now you dont have space in your computer to store the data. 
 
-no space
+![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/now_what.gif)
 
 You make a server room in your office.
 
