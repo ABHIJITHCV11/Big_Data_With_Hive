@@ -28,6 +28,7 @@
 
 ### You decide to open 1000 more shops.Now you need to store all kinds of information like details of the people who you are working with,branch location etc.Your local server cant handle this much of storage and computing. Storing this locally would you need additional servers,database admins,server technicians etc to handle the data in your company.
 
+![](https://github.com/ABHIJITHCV11/Ice-cream-Big-data-and-Cloud./blob/main/gif/stores.gif)
 
 ### Here's where cloud computing ☁️☁️comes into picture.Rather than owning your own computing infrastructure or data centres, u can rent access to anything from applications to storage from a cloud service provider.One benefit of using cloud-computing services is that you can avoid the upfront cost and complexity of owning and maintaining their own IT infrastructure. Instead you can simply pay for what they use, when they use it.
 
