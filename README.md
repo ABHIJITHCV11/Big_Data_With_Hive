@@ -15,6 +15,7 @@ Now there is paper every where in your office.
 ![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/paper.gif)
 
 you decide to store the sales info in your computer instead of writing it down.
+
 ![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/computer.gif)
 
 Next month you decide to launch 5 more branches and stated selling other products.
