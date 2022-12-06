@@ -10,7 +10,7 @@
 
 ![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/giphy%20(1).gif)
 
-### Now there is paper every where in your office.
+### Now there is paper📄📄📄 every where in your office.
 
 ![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/paper.gif)
 
