@@ -1,5 +1,5 @@
 
-# USING BIG DATA AND CLOUD TO SELL ONE BILLION ICE CREAMS 🍦.
+# USING BIG DATA AND CLOUD TO SELL ICE-CREAMS 🍦.
 
 
 ### Say you started selling ice cream 🍦 and kept a record of sales in a paper📝.
