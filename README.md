@@ -19,9 +19,6 @@ you decide to store the sales info in your computer instead of writing it down.
 excel
 
 Next month you decide to launch 5 more branches and stated selling other products.
-
-branches
-
 Now you dont have space in your computer any more.
 
 no space
