@@ -26,7 +26,7 @@
 
 ![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/server.gif)
 
-### You decide to open 1000 more shops.Now you need to store all kinds of information like details of the people who you are working with,branch location etc.Your local server cant handle this much of storage and computing. Storing this locally would you need additional servers,database admins,server technicians etc to handle the data in your company.
+### You decide to open 1000 more shops.Now you need to store all kinds of information like details of the people who you are working with,branch location etc.Your local server cant handle this much of storage and computing. Storing petabytes of data locally would need additional servers,database admins,server technicians etc to handle the data in your company.Now you are dealing with BIG DATA 📊📊📊.
 
 ![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/now_what2.gif)
 
