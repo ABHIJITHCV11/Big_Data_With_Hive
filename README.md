@@ -2,6 +2,7 @@
 # USING BIG DATA AND CLOUD TO SELL ICE-CREAMS 🍦.
 
 
+
 ### Say you started selling ice cream 🍦 and kept a record of sales in a paper📝.
 
 ![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/giphy.gif)
