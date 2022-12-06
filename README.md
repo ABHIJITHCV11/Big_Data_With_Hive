@@ -18,7 +18,7 @@
 
 ![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/computer.gif)
 
-### Next month you decide to launch 4 new ice-cream shops and start selling other products. Now you don't have space on your computer to store all the new data.💾. 
+### Next month you decide to launch 4 new ice-cream shops and start selling more ice-cream 🍦🍦🍦🍦. Now you don't have space on your computer to store all the new data.💾. 
 
 ![](https://github.com/ABHIJITHCV11/Ice-cream-Big-data-and-Cloud./blob/main/gif/stores.gif)![](https://github.com/ABHIJITHCV11/Ice-cream-Big-data-and-Cloud./blob/main/gif/stores.gif)![](https://github.com/ABHIJITHCV11/Ice-cream-Big-data-and-Cloud./blob/main/gif/stores.gif)![](https://github.com/ABHIJITHCV11/Ice-cream-Big-data-and-Cloud./blob/main/gif/stores.gif)
 
