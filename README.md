@@ -35,8 +35,3 @@
 
 ![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/IaaS-PaaS-SaaS-slanted-control.png)
 
-
-
-
-
-
