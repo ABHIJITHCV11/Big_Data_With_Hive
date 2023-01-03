@@ -31,7 +31,7 @@
 
 ![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/now_what2.gif)
 
-### Here's where cloud computing ☁️☁️comes into picture.Rather than owning your own computing infrastructure or data centres, u can rent access to anything from applications to storage from a cloud service provider.One benefit of using cloud-computing services is that you can avoid the upfront cost and complexity of owning and maintaining their own IT infrastructure. Instead you can simply pay for what they use, when they use it.
+### Here's where cloud computing ☁️☁️comes into picture.Rather than owning your own computing infrastructure or data centres, you can rent anything from applications to storage from a cloud service provider.One benefit of using cloud-computing services is that you can avoid the upfront cost and complexity of owning and maintaining their own IT infrastructure. Instead you can simply pay for what they use, when they use it.
 
 ![](https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/IaaS-PaaS-SaaS-slanted-control.png)
 
